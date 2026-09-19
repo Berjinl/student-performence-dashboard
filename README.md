@@ -27,7 +27,7 @@ The dashboard provides interactive visualizations to identify student performanc
 ## Dashboard Preview
 
 ![Student Performance Dashboard](dashboard.png)
-## Live Dashboard
+
 
 ## Live Dashboard
 
