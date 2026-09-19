@@ -27,3 +27,8 @@ The dashboard provides interactive visualizations to identify student performanc
 ## Dashboard Preview
 
 ![Student Performance Dashboard](dashboard.png)
+## Live Dashboard
+
+## Live Dashboard
+
+[View Power BI Dashboard](https://app.powerbi.com/links/FpL7u-sQlP?ctid=406a6e9a-2c6d-4cd4-b5fc-299c924534e7&pbi_source=linkShare&bookmarkGuid=5abd0e68-bc96-45b4-9dd2-12b1a0d6ac96)
