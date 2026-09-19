@@ -24,3 +24,6 @@ An interactive Power BI dashboard designed to analyze student performance using 
 
 ## Dashboard
 The dashboard provides interactive visualizations to identify student performance trends and analyze academic data.
+## Dashboard Preview
+
+![Student Performance Dashboard](dashboard.png)
